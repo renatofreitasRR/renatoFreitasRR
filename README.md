@@ -28,7 +28,7 @@ Abaixo um pouco sobre minhas experiências profissionais:
   
 [<img align="left" height="25%" width="25%"  alt="FI Group" src="https://br.fi-group.com/wp-content/uploads/sites/9/2019/10/menu2.png"/>](https://br.fi-group.com/)
 
-**Estágiario Desenvolvimento de Software** \
+**Analista de Sistemas Jr** \
 [**FI Group**](https://br.fi-group.com/)
 Linguagens e Tecnologias: `.NET Core`, `.NET Framework`, `Azure`, `Javascript`, `Typescript`,`React`,`Next`,`SQL` \
 Projetos  Desenvolvidos: [App Lei Do Bem](https://app.leidobem.com/pt-BR/Account/Login/)
