@@ -69,7 +69,7 @@
   Abaixo um pouco sobre minha formação acadêmica:
 
   [<img height="60px" width="60px" alt="FI Group"
-      src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />]{: style="background: no-repeat center; background-size: cover;"}(https://www.fatecsp.br/)
+      src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />(https://www.fatecsp.br/)
 
   **Análise e Desenvolvimento de Sistemas** \
   [**FATEC São Paulo**](https://www.fatecsp.br/)
@@ -77,7 +77,7 @@
   <br />
 
   [<img height="60px" width="60px" alt="FI Group"
-      src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/para-empresas/cases/santander/thumb.png" />]{: style="background: no-repeat center; background-size: cover;"}(https://ada.tech/)
+      src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/para-empresas/cases/santander/thumb.png" />](https://ada.tech/)
 
   **Engenharia de Dados** \
   [**ADA Tech - Santander**](https://ada.tech/)
@@ -85,7 +85,7 @@
   <br />
 
   [<img height="60px" width="60px" alt="FI Group"
-      src="https://educamaisbrasil2024.com/wp-content/uploads/etec-inscricoes.png" />]{: style="background: no-repeat center; background-size: cover;"}(https://www.cps.sp.gov.br/etec/)
+      src="https://educamaisbrasil2024.com/wp-content/uploads/etec-inscricoes.png" />](https://www.cps.sp.gov.br/etec/)
 
   **Técnico em Automação Industrial** \
   [**ETEC Gildo Marçal Bezerra Brandão**](https://www.cps.sp.gov.br/etec/)
