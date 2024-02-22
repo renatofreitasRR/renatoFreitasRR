@@ -39,7 +39,7 @@
 ### Experiência Profissional
   Abaixo um pouco sobre minhas experiências profissionais:
 
-  [<img align="left" height="25%" width="25%" alt="FI Group"
+  [<img height="25%" width="25%" alt="FI Group"
       src="https://br.fi-group.com/wp-content/uploads/sites/9/2019/10/menu2.png" />](https://br.fi-group.com/)
 
   **Analista de Desenvolvimento Pleno** \
