@@ -49,8 +49,7 @@
   proposta junto ao time, implementar soluções de caching para performance, definição de padrões de código e
   estratégias de implementação em produção.
 
-  [<img align="left" height="25%" width="25%" alt="FI Group"
-      src="https://br.fi-group.com/wp-content/uploads/sites/9/2019/10/menu2.png" />](https://br.fi-group.com/)
+<br />
 
   **Analista de Desenvolvimento Junior** \
   [**FI Group**](https://br.fi-group.com/)
@@ -58,8 +57,7 @@
   Responsabilidades: Responsável por documentar e trabalhar em novos produtos no Brasil, migração de versão de
   software, integrações e sustentação.
 
-  [<img align="left" height="25%" width="25%" alt="FI Group"
-      src="https://br.fi-group.com/wp-content/uploads/sites/9/2019/10/menu2.png" />](https://br.fi-group.com/)
+<br />
 
   **Estagiário de Desenvolvimento** \
   [**FI Group**](https://br.fi-group.com/)
@@ -70,19 +68,19 @@
   ### Formação Acadêmica
   Abaixo um pouco sobre minha formação acadêmica:
 
-  [<img align="left" height="25%" width="25%" alt="FI Group"
+  [<img height="25%" width="25%" alt="FI Group"
       src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />](https://www.fatecsp.br/)
 
   **Análise e Desenvolvimento de Sistemas** \
   [**FATEC São Paulo**](https://www.fatecsp.br/)
 
-  [<img align="left" height="25%" width="25%" alt="FI Group"
+  [<img height="25%" width="25%" alt="FI Group"
       src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/para-empresas/cases/santander/thumb.png" />](https://ada.tech/)
 
   **Engenharia de Dados** \
   [**ADA Tech - Santander**](https://ada.tech/)
 
-  [<img align="left" height="25%" width="25%" alt="FI Group"
+  [<img height="25%" width="25%" alt="FI Group"
       src="https://educamaisbrasil2024.com/wp-content/uploads/etec-inscricoes.png" />](https://www.cps.sp.gov.br/etec/)
 
   **Técnico em Automação Industrial** \
