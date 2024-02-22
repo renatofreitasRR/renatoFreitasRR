@@ -68,19 +68,23 @@
   ### Formação Acadêmica
   Abaixo um pouco sobre minha formação acadêmica:
 
-  [<img height="25%" width="25%" alt="FI Group"
+  [<img align="left" height="25%" width="25%" alt="FI Group"
       src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />](https://www.fatecsp.br/)
 
   **Análise e Desenvolvimento de Sistemas** \
   [**FATEC São Paulo**](https://www.fatecsp.br/)
 
-  [<img height="25%" width="25%" alt="FI Group"
+  <br />
+
+  [<img align="left" height="25%" width="25%" alt="FI Group"
       src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/para-empresas/cases/santander/thumb.png" />](https://ada.tech/)
 
   **Engenharia de Dados** \
   [**ADA Tech - Santander**](https://ada.tech/)
 
-  [<img height="25%" width="25%" alt="FI Group"
+  <br />
+
+  [<img align="left" height="25%" width="25%" alt="FI Group"
       src="https://educamaisbrasil2024.com/wp-content/uploads/etec-inscricoes.png" />](https://www.cps.sp.gov.br/etec/)
 
   **Técnico em Automação Industrial** \
