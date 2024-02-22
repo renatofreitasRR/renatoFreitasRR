@@ -70,7 +70,7 @@
 
   [<img height="60px" width="60px" alt="FI Group"
        style="background: no-repeat center; background-size: cover"
-      src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />(https://www.fatecsp.br/)
+      src="https://media.licdn.com/dms/image/C4D0BAQHGVypJyvBbxQ/company-logo_200_200/0/1630568533877?e=2147483647&v=beta&t=dFHR7ugwewqyDSM3q_bgbtZbYxn4NtNxzstefztGG24" />](https://www.fatecsp.br/)
 
   **Análise e Desenvolvimento de Sistemas** \
   [**FATEC São Paulo**](https://www.fatecsp.br/)
